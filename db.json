@@ -1,10 +1,11 @@
 {
-"aktiviteter":[
-  "id": 1,
-  "dato": "12/01/2022 torsdag Banko",
-  "beskrivelse": "Bankospil på Solbakken"
-],
-  "profile": {
-    "name": "typicode"
+  "aktiviteter": {
+    "aktivitet": [
+      {
+        "id": 1,
+        "dato": "12/01/2022 torsdag Banko",
+        "beskrivelse": "Bankospil på Solbakken"
+      }
+    ]
   }
 }
