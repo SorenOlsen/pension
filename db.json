@@ -24,5 +24,109 @@
          "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
          "image":"Modehjørnet.jpg"
       }
+      {
+         "id":4,
+         "dato":"03/02/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
+      }
+      {
+         "id":5,
+         "dato":"10/02/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Modehjørnet.jpg"
+      }
+      {
+         "id":6,
+         "dato":"17/02/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
+      }
+      {
+         "id":7,
+         "dato":"24/02/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Modehjørnet.jpg"
+      }
+      {
+         "id":8,
+         "dato":"03/03/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
+      }
+      {
+         "id":9,
+         "dato":"10/03/2022",
+         "status":"Ok",
+         "emne":"Generalforsamling kl. 14.00",
+         "beskrivelse":"Efter generalforsamlingen serveres der franskbrød med pålæg + øl, vand, kaffe og the.",
+         "image":"Fodklinik.jpg"
+      }
+      {
+         "id":10,
+         "dato":"17/03/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Modehjørnet.jpg"
+      }
+      {
+         "id":11,
+         "dato":"24/03/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
+      }
+      {
+         "id":12,
+         "dato":"31/03/2022",
+         "status":"Ok",
+         "emne":"Modeopvisning kl. 14.00",
+         "beskrivelse":"Modehjørnet og WunderWear kommer og giver modeopvisning i samarbejde med Solbakken.",
+         "image":"Wunderwear.jpg"
+      }
+      {
+         "id":13,
+         "dato":"17/04/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Modehjørnet.jpg"
+      }
+      {
+         "id":14,
+         "dato":"24/04/2022",
+         "status":"Ok",
+         "emne":"Indkøbstur kl. 8.00",
+         "beskrivelse":"Der er indkøbstur til Tyskland med spisning på Sekkerlund Cafeteria. Pris 200 kr. Bindende tilmelding.",
+         "image":"Birkehuset.jpg"
+      }
+      {
+         "id":15,
+         "dato":"01/06/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
+      }
+      {
+         "id":16,
+         "dato":"08/06/2022",
+         "status":"Ok",
+         "emne":"Sommerudflugt kl. 8.00",
+         "beskrivelse":"Info senere. Bindende tilmelding til Gerda Andersen tlf. 23831882",
+         "image":"Modehjørnet.jpg"
+      }
    ]
 }
