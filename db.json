@@ -1,11 +1,22 @@
 {
-  "aktiviteter": {
-    "aktivitet": [
-      {
-        "id": 1,
-        "dato": "12/01/2022 torsdag Banko",
-        "beskrivelse": "Bankospil på Solbakken"
-      }
-    ]
-  }
+"aktiviteter":[
+  {"id": 1,
+  "dato": "13/01/2022",
+  "status": "Aflyst",
+  "emne": "Banko kl. 14.00"
+  "beskrivelse": "Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+  "image": "Modehjørnet.jpg"},
+   {"id": 2,
+  "dato": "20/01/2022",
+  "status": "Aflyst",
+  "emne": "Banko kl. 14.00"
+  "beskrivelse": "Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri."
+  "image": "Fodklinik.jpg,
+   {"id": 2,
+  "dato": "27/01/2022",
+  "status": "Aflyst",
+  "emne": "Banko kl. 14.00"
+  "beskrivelse": "Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri."
+  "image": "Modehjørnet.jpg"},
+]
 }
