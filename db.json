@@ -13,14 +13,16 @@
          "dato":"20/01/2022",
          "status":"Aflyst",
          "emne":"Banko kl. 14.00",
-         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.""image":"Fodklinik.jpg"
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
       },
       {
          "id":3,
          "dato":"27/01/2022",
          "status":"Aflyst",
          "emne":"Banko kl. 14.00",
-         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.""image":"Modehjørnet.jpg"
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Modehjørnet.jpg"
       }
    ]
 }
