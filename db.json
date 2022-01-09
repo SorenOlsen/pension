@@ -105,41 +105,105 @@
          "beskrivelse":"Modehjørnet og WunderWear kommer og giver modeopvisning i samarbejde med Solbakken.",
          "image":"Wunderwear.jpg"
       },
-
       {
          "id":13,
-         "dato":"17/04/2022",
+         "dato":"07/04/2022",
          "status":"Ok",
          "emne":"Banko kl. 14.00",
          "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
          "image":"Modehjørnet.jpg"
       },
-
       {
          "id":14,
-         "dato":"24/04/2022",
+         "dato":"14/04/2022",
          "status":"Ok",
-         "emne":"Indkøbstur kl. 8.00",
-         "beskrivelse":"Der er indkøbstur til Tyskland med spisning på Sekkerlund Cafeteria. Pris 200 kr. Bindende tilmelding.",
-         "image":"Birkehuset.jpg"
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Modehjørnet.jpg"
       },
 
       {
          "id":15,
-         "dato":"01/06/2022",
+         "dato":"21/04/2022",
+         "status":"Ok",
+         "emne":"Indkøbstur kl. 8.00",
+         "beskrivelse":"Der er indkøbstur til Tyskland med spisning på Sekkerlund Cafeteria. Pris 200 kr. Bindende tilmelding.",
+         "image":"TonnysRejser.jpg"
+      },
+
+
+
+      {
+         "id":16,
+         "dato":"16/06/2022",
+         "status":"Ok",
+         "emne":"Sommerudflugt kl. 8.00",
+         "beskrivelse":"Info senere. Bindende tilmelding til Gerda Andersen tlf. 23831882",
+         "image":"TonnysRejser.jpg"
+      },
+      {
+         "id":17,
+         "dato":"06/10/2022",
          "status":"Ok",
          "emne":"Banko kl. 14.00",
          "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
          "image":"Fodklinik.jpg"
-      },
-
+      },  
       {
-         "id":16,
-         "dato":"08/06/2022",
+         "id":18,
+         "dato":"13/10/2022",
          "status":"Ok",
-         "emne":"Sommerudflugt kl. 8.00",
-         "beskrivelse":"Info senere. Bindende tilmelding til Gerda Andersen tlf. 23831882",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
          "image":"Modehjørnet.jpg"
-      }
+      }, 
+      {
+         "id":19,
+         "dato":"20/10/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
+      }, 
+      {
+         "id":20,
+         "dato":"27/10/2022",
+         "status":"Ok",
+         "emne":"Indkøbstur kl. 8.00",
+         "beskrivelse":"Der er indkøbstur til Tyskland med spisning på Sekkerlund Cafeteria. Pris 200 kr. Bindende tilmelding.",
+         "image":"TonnysRejser.jpg"
+      }, 
+      {
+         "id":21,
+         "dato":"03/11/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
+      }, 
+      {
+         "id":22,
+         "dato":"10/11/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Modehjørnet.jpg"
+      }, 
+      {
+         "id":23,
+         "dato":"17/11/2022",
+         "status":"Ok",
+         "emne":"Løvfaldstur kl. 8.00",
+         "beskrivelse":"Info senere. Bindende tilmelding til Gerda Andersen tlf. 23831882",
+         "image":"TonnysRejser.jpg"
+      },
+      {
+         "id":24,
+         "dato":"24/11/2022",
+         "status":"Ok",
+         "emne":"Banko kl. 14.00",
+         "beskrivelse":"Der spilles om 25 gevinster, der er kortspil, pausebanko og amerikansk lotteri.",
+         "image":"Fodklinik.jpg"
+      },       
    ]
 }
